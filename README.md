@@ -1,10 +1,7 @@
-# deeplearning
+# Deeplearning
 
-
-Absolutely! Here’s an improved version of your `README.md` that is **human**, **technical**, and sounds like something a motivated CS student would write to show off their skills and growth — while still keeping it personal and understandable.
 
 ---
-
 ## 🧠 CIFAR-10: Building Machine Learning Models From Scratch (No Libraries!)
 
 Hi there! I’m Shasank — and this repo is a personal deep dive into understanding how core machine learning algorithms work *without relying on frameworks like TensorFlow or PyTorch*.
@@ -67,12 +64,6 @@ This project gave me a *hands-on* understanding of:
 * Overfitting vs underfitting trade-offs
 * The importance of model architecture and feature representations
 
----
-
-### 📁 What's in This Repo?
-
-* `report.docx`: A full breakdown of all my models, results, and reflections.
-* (Coming soon: Python code files + training scripts)
 
 ---
 
@@ -88,10 +79,10 @@ I want to:
 
 ### 👋 Final Thoughts
 
-This wasn’t a tutorial or a class assignment for me — it was my personal way to *understand machine learning deeply by building from scratch*. There’s something rewarding about seeing your code improve prediction accuracy, even by a few percent.
+
 
 Feel free to check it out, leave feedback, or fork it and try tweaking things yourself!
 
 ---
 
-Let me know when you upload your code, and I’ll update this with specific script descriptions and links to each model. Want me to generate the file structure and code comments next?
+
